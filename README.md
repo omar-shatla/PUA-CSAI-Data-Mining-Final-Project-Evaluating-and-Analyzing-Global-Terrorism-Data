@@ -32,7 +32,6 @@ pip install pandas scikit-learn matplotlib seaborn
    - Plot the feature importances to understand the contribution of each feature to the classification.
 
 
-Certainly! Here's an updated section for the contributors in the readme file:
 
 ## Contributors
 
