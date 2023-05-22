@@ -7,6 +7,7 @@ Analyzing global terrorism data to detect and evaluate terrorist activities. Thi
 
 This project focuses on performing classification using a Random Forest algorithm on a dataset related to global terrorism. The goal is to predict the success of terrorist incidents based on the number of wounded and killed individuals. The code implements data cleaning, model training, evaluation, and visualization of results.
 
+
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the required dependencies: pandas, scikit-learn, matplotlib, and seaborn.
@@ -14,6 +15,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 ```bash
 pip install pandas scikit-learn matplotlib seaborn
 ```
+
 
 ## Usage
 
@@ -32,6 +34,10 @@ pip install pandas scikit-learn matplotlib seaborn
    - Plot the feature importances to understand the contribution of each feature to the classification.
 
 
+## License
+
+This project is not licensed, and all rights are reserved. You are not permitted to use, modify, or distribute the code without explicit permission.
+
 
 ## Contributors
 
@@ -40,10 +46,3 @@ This project was developed by the following students:
 - Omar Shatla
 - Rewan Noor
 - Arwa Mekawy
-
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
