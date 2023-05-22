@@ -16,7 +16,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the req
 pip install pandas scikit-learn matplotlib seaborn
 ```
 
-Downloading the dataset is necessary and it can be done by downloading it from [Kaggle](https://www.kaggle.com/datasets/START-UMD/gtd)
+Downloading the dataset is necessary and it can be done by downloading it from [Kaggle](https://www.kaggle.com/datasets/START-UMD/gtd).
 
 
 ## Usage
